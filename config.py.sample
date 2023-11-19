@@ -1,6 +1,6 @@
 class Config(object):
-    OWNER_ID = 1137851706
+    OWNER_ID = 6523792713 
     ADMINS = [].append(OWNER_ID)
-    BOT_TOKEN = 
-    API_ID = 
-    API_HASH = 
+    BOT_TOKEN = 6481063425:AAGPAPVgvvpiRvdG63_wYDwjbv_7X7NEspM
+    API_ID = 25609995
+    API_HASH = 67b6da722e9c63a8993675abe64f0b5e
